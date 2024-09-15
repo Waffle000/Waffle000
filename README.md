@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Mobile Developer, Android Developer and IOS Developer.<br>I'm Tech Enthusiastic
+📱 Mobile Developer | Android & iOS Enthusiast
+
+Hello there! I'm a passionate mobile developer with a focus on creating innovative solutions for Android and iOS platforms. I thrive in the fast-evolving world of technology, always eager to explore new tools, frameworks, and best practices to deliver seamless, high-quality mobile experiences.
 
 
 ## 🌐 Socials:
