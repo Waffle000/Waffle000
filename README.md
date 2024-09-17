@@ -1,8 +1,5 @@
 # 💫 About Me:
-📱 Mobile Developer | Android & iOS Enthusiast
-
-Hello there! I'm a passionate mobile developer with a focus on creating innovative solutions for Android and iOS platforms. I thrive in the fast-evolving world of technology, always eager to explore new tools, frameworks, and best practices to deliver seamless, high-quality mobile experiences.
-
+📱 Mobile Developer | Android & iOS Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enricomaricar) 
